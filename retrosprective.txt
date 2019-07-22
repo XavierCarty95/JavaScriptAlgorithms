@@ -1,0 +1,3 @@
+With this challenge i thought it was going to take me longer then 40 mins but it actually took me 20mins. 
+i thought that we had to put the scores in the array at first
+once i figured out that the data was already in an arry the challenege was easier. 
